@@ -1,4 +1,3 @@
-```markdown
 # 🌟 Twitter Sentiment Analysis 🌟
 
 ## Project Overview
@@ -58,7 +57,7 @@ Welcome to the **Twitter Sentiment Analysis** project! This project leverages da
    ```sh
    git clone https://github.com/yourusername/twitter-sentiment-analysis.git
    cd twitter-sentiment-analysis
-   ```
+
 
 
 ## Project Workflow
