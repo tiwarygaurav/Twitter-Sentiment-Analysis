@@ -88,7 +88,7 @@ Twitter Sentiment Analysis is a data analytics project designed to analyze a dat
 - Identified the most important features (words or phrases) contributing to sentiment predictions.
 - Visualized feature importance using bar charts.
 
-## User Interface (Optional)
+## User Interface 
 **Tools Used:** Streamlit
 
 - Developed a simple user interface allowing users to input custom text for sentiment analysis.
@@ -111,18 +111,6 @@ Twitter Sentiment Analysis is a data analytics project designed to analyze a dat
 5. [WordCloud Documentation](https://github.com/amueller/word_cloud)
 6. [Tableau Public Documentation](https://public.tableau.com/en-us/s/)
 7. [Streamlit Documentation](https://docs.streamlit.io/)
-
-## Submission Instructions
-1. Follow all the instructions mentioned in the attached Instruction PDF.
-2. Zip the entire project file, including all necessary documents, assets, and source code.
-3. Submit the zipped file through Google Classroom.
-4. Include the GitHub repository link (if applicable) and the live website link in the submission form.
-
-## GitHub Repository
-[Link to GitHub Repository](#)
-
-## Live Website (Optional)
-[Link to Live Website](#)
 
 ---
 
